@@ -6,4 +6,3 @@
 5. NeuralNetwork
 6. DCGAN, VAE
 7. SVM
--//-
