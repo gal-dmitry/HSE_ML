@@ -6,3 +6,7 @@
 5. NeuralNetwork
 6. DCGAN, VAE
 7. SVM
+8. DecisionTree
+9. RandomForest
+10. NaiveBayes
+11. HillClimb, GeneticAlgorithm
