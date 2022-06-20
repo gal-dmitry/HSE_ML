@@ -1,4 +1,4 @@
-# ML
+# Machine Learning HSE course
 1. KDTree
 2. Clustering
 3. LinearRegression
